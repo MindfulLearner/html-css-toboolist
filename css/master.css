@@ -20,6 +20,13 @@ main {
     margin-top: 8%;
 }
 
+.boxBottoneContainer {
+    background-color: aliceblue; 
+    padding: 20px 30px; 
+    border-top-right-radius: 10px; 
+    border-top-left-radius: 10px;
+}
+
 .megaContainer{
     padding: 20px 30px;
     background-color: aliceblue;   
