@@ -42,6 +42,8 @@ main {
     text-align: center;
     padding: 6px;
     display: inline-block;
+    /*manina sui bottoni*/
+    cursor: pointer;
 }
 
 .boxBottone.task:hover{
